@@ -1,0 +1,11 @@
+npm run build
+
+
+### Git Commands
+```bash
+git init
+git add .
+git commit -m "Complete FlyRank 3D Experience"
+git branch -M main
+git remote add origin https://github.com/USERNAME/flyrank-3d-experience.git
+git push -u origin main
